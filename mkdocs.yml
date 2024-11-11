@@ -1,0 +1,16 @@
+site_name: My Docs
+site_url: https://dimitrijjedich.github.io
+site_author: Dimitrij Jedich
+site_description: Documentation and information gathering
+
+nav:
+  - About: index.md
+  - Main: main.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
+
