@@ -6,6 +6,10 @@ Welcome to the AWS section of the documentation hub! This area focuses on practi
 
 ## 📁 Contents
 
+[<img src="https://img.shields.io/badge/%3E__-AWS CLI-202B3C?" alt="AWS CLI">](./CLI.md)
+
+Most of the documentation is written to be used with the AWS CLI. While it is possible to use the browser based terminal of AWS, the comfort and feeling of your own still feels like home. This doc will enable you to do exactly that and give you a step-by-step guide on how to set up your own terminal to work with the [AWS CLI](./CLI.md). 
+
 ### <img src="https://img.shields.io/badge/EC2 (Elastic Compute Cloud)-202B3C?logo=amazonec2" alt="AWS EC2" />
 
 The following documents cover some essential EC2-related features and their CLI usage:
